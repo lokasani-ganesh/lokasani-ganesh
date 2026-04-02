@@ -1,7 +1,7 @@
 # Hey there 👋
 
-I'm Ganesh, an aspiring software developer from India 🇮🇳  
-
+👋 Hi, I’m @yourusername  
+💻 I’m interested in Software Development and Web Development 
 I build real-world projects and continuously improve my problem-solving skills.  
 My interests include Java, Python, and Web Development.  
 
@@ -32,10 +32,6 @@ My interests include Java, Python, and Web Development.
 ![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokasani-ganesh&show_icons=true)
 
 ---
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=lokasani-ganesh)
 
 ---
 
