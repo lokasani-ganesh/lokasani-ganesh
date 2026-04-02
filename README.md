@@ -37,13 +37,9 @@ I enjoy solving real-world problems and improving backend performance.
 ---
 
 ## 📊 GitHub Stats
-
-![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokasani-ganesh&show_icons=true)
-
----
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lokasani-ganesh&theme=tokyonight)
 
 ## 🔥 Streak Stats
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=lokasani-ganesh&theme=tokyonight)
 
 ---
