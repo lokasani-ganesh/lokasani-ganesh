@@ -44,7 +44,7 @@ I enjoy solving real-world problems and improving backend performance.
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=lokasani-ganesh)
+![GitHub Streak](https://streak-stats.demolab.com?user=lokasani-ganesh&theme=tokyonight)
 
 ---
 
