@@ -59,14 +59,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lokasani-ganesh&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
