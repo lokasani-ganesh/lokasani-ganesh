@@ -1,29 +1,38 @@
 # Hey there 👋
 
-👋 Hi, I’m @yourusername  
-💻 I’m interested in Software Development and Web Development 
-I build real-world projects and continuously improve my problem-solving skills.  
-My interests include Java, Python, and Web Development.  
+👋 Hi, I’m lokasani-ganesh  
+💻 I’m interested in Software Development and Web Development.
+I build scalable web applications using Java, Spring Boot, and MySQL.  
+I enjoy solving real-world problems and improving backend performance.  
 
-🚀 Actively looking for entry-level opportunities  
+🚀 Open to entry-level Software Developer opportunities  
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- 💻 Languages: Java, Python  
-- 🌐 Web: HTML, CSS  
+- 💻 Languages: Java, SQL, JavaScript  
+- 🌐 Frontend: HTML, CSS  
+- ⚙️ Backend: Spring Boot, REST APIs  
 - 🗄️ Database: MySQL  
-- ⚙️ Tools: Git, GitHub, VS Code  
-- 🧠 Concepts: Data Structures & Algorithms  
+- 🛠️ Tools: Git, GitHub, Maven, Jenkins  
+- 🧠 Concepts: Data Structures, OOP, DBMS  
 
 ---
 
 ## 🚀 Projects
 
+- 🛒 Ekart E-Commerce Web Application  
+  → Built full-stack app using Java, Spring Boot, MySQL  
+  → Features: product catalog, cart, order management  
+
+- 📱 Social Media Web Application  
+  → Developed REST APIs with Spring Boot  
+  → Implemented authentication & post management  
+
 - 🛡️ AI-Based Network Intrusion Detection System  
-  → Detects DDoS attacks using Machine Learning (Random Forest)  
-  → Built with Python, Streamlit    
+  → Detects DDoS attacks using Machine Learning  
+  → Built with Python & Streamlit  
 
 ---
 
@@ -33,20 +42,24 @@ My interests include Java, Python, and Web Development.
 
 ---
 
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=lokasani-ganesh)
+
 ---
 
 ## 👨‍💻 A Bit About Me
 
-- 🎓 B.Tech Graduate  
-- 📚 Currently learning Data Structures & Algorithms  
-- 💻 Passionate about Software Development  
-- 🚀 Always learning and building  
+- 🎓 B.Tech Graduate (Mechanical Engineering)  
+- 💻 Transitioned into Software Development  
+- 📚 Strong in Java Full Stack Development  
+- 🚀 Passionate about building scalable applications  
 
 ---
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: https://linkedin.com/in/your-link  
+- 🔗 LinkedIn: https://linkedin.com/in/ganesh  
 - 📧 Email: ganeshlksn04032001@gmail.com  
 
 ---
