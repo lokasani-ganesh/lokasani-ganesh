@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+👋 Hi, I’m lokasani-ganesh  
+💻 I’m interested in Software Development and Web Development  
+🌱 I’m currently learning Java, Python, and Data Structures  
+📫 Open to work opportunities
 <!--
 **lokasani-ganesh/lokasani-ganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
