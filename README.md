@@ -20,11 +20,11 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode,spring,maven,jenkins,docker,linux" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,maven,jenkins" />
+  <img src="https://skillicons.dev/icons?i=" />
 </p>
 
 ---
